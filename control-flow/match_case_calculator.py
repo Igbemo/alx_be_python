@@ -1,7 +1,7 @@
 #This prpgramme allows me to use match case for multiple operations
 
 num1 = int(input("Enter the first number: "))
-num2 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
 operator = input("Choose the operation (+, -, *, /): ")
 
 if operator == '/'and num1 and num2 ==0:
