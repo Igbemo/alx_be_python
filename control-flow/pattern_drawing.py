@@ -1,5 +1,6 @@
 i=0
 # This programme draws a simple text-based pattern.
+j = int(input("Enter the size of the pattern: "))
 while i < 4:
     j = 0
     while j < 4:
