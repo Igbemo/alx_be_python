@@ -4,7 +4,7 @@ num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 operator = input("Choose the operation (+, -, *, /): ")
 
-if operator == '/'and num1 and num2 ==0:
+if operator == '/'and  num2 ==0:
         print("Cannot divide by zero.") 
 
 #The match case treating each operator as a case      
